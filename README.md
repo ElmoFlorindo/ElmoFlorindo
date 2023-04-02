@@ -28,6 +28,8 @@ auxiliar na rotina diária e oferecer um serviço de
 qualidade, buscando soluções aos problemas
 apresentados.
 
-Meu e-mail de contato é : elmogbr@gmail.com
-Meu numero de contato é : (85)9.8195-0520
+Meu e-mail de contato é : elmogbr@gmail.com. 
+<br>
+Meu numero de contato é : (85)9.8195-0520.
+<br>
 Ou clique no link para falar comigo no whatsapp - l1nk.dev/WhatsappDeElmoFlorindo
