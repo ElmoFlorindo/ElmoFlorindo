@@ -32,4 +32,4 @@ Meu e-mail de contato é : elmogbr@gmail.com.
 <br>
 Meu numero de contato é : (85)9.8195-0520.
 <br>
-Ou clique na imagem para falar comigo no whatsapp -   <a href="https://api.whatsapp.com/send?phone=5585981950520">Flex Grid</a>
+Ou clique em meu nome para falar comigo no whatsapp -   <a href="https://api.whatsapp.com/send?phone=5585981950520">Elmo Florindo</a>
