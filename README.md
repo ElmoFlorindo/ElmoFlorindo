@@ -32,4 +32,4 @@ Meu e-mail de contato é : elmogbr@gmail.com.
 <br>
 Meu numero de contato é : (85)9.8195-0520.
 <br>
-Ou clique no link para falar comigo no whatsapp - l1nk.dev/WhatsappDeElmoFlorindo
+Ou clique na imagem para falar comigo no whatsapp -   <a href=“l1nk.dev/WhatsappDeElmoFlorindo“>Flex Grid</a>
