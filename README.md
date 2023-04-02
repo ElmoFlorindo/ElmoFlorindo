@@ -1,4 +1,4 @@
-## Oi, tudo bem ? Eu sou o Elmo Florindo ! 👋
+## Oi, tudo bem ? Eu sou Elmo Florindo ! 👋
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elmo.neto/?next=%2F)
@@ -32,4 +32,4 @@ Meu e-mail de contato é : elmogbr@gmail.com.
 <br>
 Meu numero de contato é : (85)9.8195-0520.
 <br>
-Ou clique na imagem para falar comigo no whatsapp -   <a href='l1nk.dev/WhatsappDeElmoFlorindo'Elmo Florindo</a>
+Ou clique na imagem para falar comigo no whatsapp -   <a href="https://api.whatsapp.com/send?phone=5585981950520">Flex Grid</a>
