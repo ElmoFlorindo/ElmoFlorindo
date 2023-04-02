@@ -29,3 +29,5 @@ qualidade, buscando soluções aos problemas
 apresentados.
 
 Meu e-mail de contato é : elmogbr@gmail.com
+Meu numero de contato é : (85)9.8195-0520
+Ou clique no link para falar comigo no whatsapp - l1nk.dev/WhatsappDeElmoFlorindo
